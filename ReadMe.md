@@ -31,8 +31,6 @@ I’m also familiar with Micro services , Docker, Postgresql, Redis, MongoDb, Ra
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="apachekafka" alt="kafka" width="40" height="40"/>&nbsp;&nbsp;
 </div>
 
-### Github Stats
-![Milad's GitHub stats](https://github-readme-stats.vercel.app/api?username=milad-dark&show_icons=true&theme=bear)
 
 
 ### :mailbox:How to reach me: 
