@@ -6,7 +6,7 @@
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Milad Eghlimapour 
 </h1>
 
-### :woman_technologist: About Me :
+### :woman_technologist: About Me : ![](https://komarev.com/ghpvc/?username=milad-dark&color=red)
 I’ve always been a great problem solver, a Self-motivated learner,and a technophile obsessed. 
 Today, I’m a Back End Developer with industry experience building web applications Using .Net Core.
 I specialize in C#.Net , and I have professional experience working with SQL Server ,Entity Framework Core, Restful Apis and Git.
@@ -32,6 +32,8 @@ I’m also familiar with Micro services , Docker, Postgresql, Redis, MongoDb, Ra
 </div>
 
 ### Github State
+[![trophy](https://github-profile-trophy.vercel.app/?username=milad-dark&theme=dracula)](https://github.com/milad-dark)
+
 ![Github Summery](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milad-dark&theme=github_dark) 
 ![Github State](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=milad-dark&theme=moonlight) 
 ![Github Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=milad-dark&theme=moonlight&utcOffset=8)
